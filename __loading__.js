@@ -71,7 +71,7 @@ pc.script.createLoadingScreen(function (app) {
             '    margin: 20px auto 0 auto;',
             '    height: 2px;',
             '    width: 100%;',
-            '    background-color: #b6d7a8;',
+            '    background-color: #ffffff;',
             '}',
 
             '#progress-bar {',
